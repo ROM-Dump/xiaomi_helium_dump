@@ -1,0 +1,20 @@
+## helium-user 7.0 NRD90M V10.3.2.0.NBDCNXM release-keys
+- Manufacturer: xiaomi
+- Platform: msm8952
+- Codename: helium
+- Brand: Xiaomi
+- Flavor: helium-user
+- Release Version: 7.0
+- Kernel Version: 
+- Id: NRD90M
+- Incremental: V10.3.2.0.NBDCNXM
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: false
+- Locale: zh-CN
+- Screen Density: 480
+- Fingerprint: Xiaomi/helium/helium:7.0/NRD90M/V10.3.2.0.NBDCNXM:user/release-keys
+- OTA version: 
+- Branch: helium-user-7.0-NRD90M-V10.3.2.0.NBDCNXM-release-keys
+- Repo: xiaomi_helium_dump
